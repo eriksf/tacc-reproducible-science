@@ -10,8 +10,8 @@ Reproducible Science @ TACC
    :maxdepth: 1
    :caption: Contents:
 
-   Git <https://tacc-reproducible-science.readthedocs.io/projects/git/en/latest/>
-   Containers <https://tacc-reproducible-science.readthedocs.io/projects/containers/en/latest/>
+   Git <https://tacc-reproducible-science.readthedocs.io/projects/tacc-git/en/latest/>
+   Containers <https://tacc-reproducible-science.readthedocs.io/projects/tacc-containers/en/latest/>
 
 
 
