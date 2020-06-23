@@ -1,5 +1,0 @@
-sphinx
-sphinx-autobuild
-sphinx-rtd-theme
-sphinx-fontawesome
-recommonmark
