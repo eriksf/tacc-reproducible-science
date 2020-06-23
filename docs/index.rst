@@ -10,6 +10,8 @@ Reproducible Science @ TACC
    :maxdepth: 1
    :caption: Contents:
 
+   Git <https://tacc-reproducible-science.readthedocs.io/projects/git/en/latest/>
+
 
 
 Indices and tables
