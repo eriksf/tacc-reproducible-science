@@ -10,6 +10,7 @@ Reproducible Science @ TACC
    :maxdepth: 1
    :caption: Contents:
 
+   Introduction to Using High Performance Computing <https://tacc-reproducible-intro-hpc.readthedocs.io/en/latest/>
    Git <https://tacc-reproducible-science.readthedocs.io/projects/tacc-git/en/latest/>
    Containers <https://tacc-reproducible-science.readthedocs.io/projects/tacc-containers/en/latest/>
 
