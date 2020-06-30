@@ -11,14 +11,6 @@ Reproducible Science @ TACC
    :caption: Contents:
 
    Introduction to Using High Performance Computing <https://tacc-reproducible-intro-hpc.readthedocs.io/en/latest/>
-   Git <https://tacc-reproducible-science.readthedocs.io/projects/tacc-git/en/latest/>
-   Containers <https://tacc-reproducible-science.readthedocs.io/projects/tacc-containers/en/latest/>
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Git <https://tacc-reproducible-git.readthedocs.io/en/latest/>
+   Containers <https://containers-at-tacc.readthedocs.io/en/latest/>
+   Python Packaging <https://reproducible-python.readthedocs.io/en/latest/>
