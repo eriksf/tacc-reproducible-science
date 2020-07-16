@@ -22,6 +22,6 @@ We have selected a set of topics that we think are most important to using High 
    Jupyter Notebooks <>
    Python Packaging <https://reproducible-python.readthedocs.io/en/latest/>
    Containers <https://containers-at-tacc.readthedocs.io/en/latest/>
-   TAPIS <>
+   TAPIS <https://tacc.github.io/summer-institute-2020-tapis/>
    TACC Portals <>
    Workflow automation <>
