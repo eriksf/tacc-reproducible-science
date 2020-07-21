@@ -24,4 +24,4 @@ We have selected a set of topics that we think are most important to using High 
    Containers <https://containers-at-tacc.readthedocs.io/en/latest/>
    TAPIS <https://tacc.github.io/summer-institute-2020-tapis/>
    TACC Portals <>
-   Workflow automation <>
+   Workflow automation <https://tacc-reproducible-automation.readthedocs.io/en/latest/>
