@@ -20,7 +20,7 @@ on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 # -- Project information -----------------------------------------------------
 
 project = 'Reproducible Science @ TACC'
-copyright = '2020, Texas Advanced Computing Center'
+copyright = '2023, Texas Advanced Computing Center'
 author = 'Texas Advanced Computing Center'
 
 # The short X.Y version
