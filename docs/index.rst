@@ -17,8 +17,8 @@ We have selected a set of topics that we think are most important to using High 
    :maxdepth: 1
    :caption: Contents:
 
-   Git <https://tacc-reproducible-git.readthedocs.io/en/latest/>
    Containers <https://containers-at-tacc.readthedocs.io/en/latest/>
+   Version Control/Git <https://tacc-reproducible-git.readthedocs.io/en/latest/>
    unittest
    continuous_integration
    CI/CD for HPC with Tapis <https://tapis-project.github.io/workflows-tutorial/>
