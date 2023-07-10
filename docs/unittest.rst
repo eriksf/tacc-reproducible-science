@@ -31,7 +31,7 @@ not part of the Python Standard Library, so we must install it.
 Find the `documentation here <https://docs.pytest.org/en/7.4.x/>`_.
 
 .. note::
-    Rather than clone my calculate-pi repository at `https://github.com/eriksf/calculate-pi`_,
+    Rather than clone my calculate-pi repository at `https://github.com/eriksf/calculate-pi <https://github.com/eriksf/calculate-pi>`_,
     it's better to fork it and clone your own repository.
 
 Pull a copy of the `calculate-pi (https://github.com/eriksf/calculate-pi) <https://github.com/eriksf/calculate-pi>`_
