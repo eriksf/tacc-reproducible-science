@@ -30,6 +30,10 @@ not part of the Python Standard Library, so we must install it.
 
 Find the `documentation here <https://docs.pytest.org/en/7.4.x/>`_.
 
+.. note::
+    Rather than clone my calculate-pi repository at `https://github.com/eriksf/calculate-pi`_,
+    it's better to fork it and clone your own repository.
+
 Pull a copy of the `calculate-pi (https://github.com/eriksf/calculate-pi) <https://github.com/eriksf/calculate-pi>`_
 project from GitHub. This is the same code from the containers module but built using
 `Poetry <https://python-poetry.org/>`_ and adding in the `Click <https://click.palletsprojects.com/en/8.1.x/>`_
