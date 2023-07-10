@@ -119,7 +119,11 @@ projects with GitHub Actions include:
 Testing with GitHub Actions
 ---------------------------
 
-To set up GitHub Actions in an existing repository, create a new folder as follows:
+.. note::
+    Rather than clone my calculate-pi repository at `https://github.com/eriksf/calculate-pi <https://github.com/eriksf/calculate-pi>`_,
+    it's better to fork it and clone your own repository.
+
+To set up GitHub Actions in an existing repository, clone the calculate-pi repository as follows:
 
 .. code-block:: console
 
