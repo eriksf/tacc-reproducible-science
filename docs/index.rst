@@ -22,3 +22,4 @@ We have selected a set of topics that we think are most important to using High 
    unittest
    continuous_integration
    CI/CD for HPC with Tapis <https://tapis-project.github.io/workflows-tutorial/>
+   Automating Data Analysis with Tapis <https://tacc-reproducible-automation-2023.readthedocs.io/en/latest/>
